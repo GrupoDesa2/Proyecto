@@ -1,0 +1,18 @@
+C:\Users\Josse Mescco\source\repos\FeBlood\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\Josse Mescco\source\repos\FeBlood\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\Josse Mescco\source\repos\FeBlood\CapaNegocio\obj\Debug\CapaNegocio.csprojAssemblyReference.cache
+C:\Users\Josse Mescco\source\repos\FeBlood\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\Josse Mescco\source\repos\FeBlood\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\Josse Mescco\source\repos\FeBlood\CapaNegocio\obj\Debug\CapaNegocio.pdb
+D:\Base de Datos 2\3er Aporte\FeBlood\CapaNegocio\bin\Debug\CapaNegocio.dll
+D:\Base de Datos 2\3er Aporte\FeBlood\CapaNegocio\bin\Debug\CapaNegocio.pdb
+D:\Base de Datos 2\3er Aporte\FeBlood\CapaNegocio\obj\Debug\CapaNegocio.csprojAssemblyReference.cache
+D:\Base de Datos 2\3er Aporte\FeBlood\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+D:\Base de Datos 2\3er Aporte\FeBlood\CapaNegocio\obj\Debug\CapaNegocio.dll
+D:\Base de Datos 2\3er Aporte\FeBlood\CapaNegocio\obj\Debug\CapaNegocio.pdb
+D:\Base de Datos 2\FeBlood2\CapaNegocio\bin\Debug\CapaNegocio.dll
+D:\Base de Datos 2\FeBlood2\CapaNegocio\bin\Debug\CapaNegocio.pdb
+D:\Base de Datos 2\FeBlood2\CapaNegocio\obj\Debug\CapaNegocio.csprojAssemblyReference.cache
+D:\Base de Datos 2\FeBlood2\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+D:\Base de Datos 2\FeBlood2\CapaNegocio\obj\Debug\CapaNegocio.dll
+D:\Base de Datos 2\FeBlood2\CapaNegocio\obj\Debug\CapaNegocio.pdb

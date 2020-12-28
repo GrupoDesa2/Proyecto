@@ -1,0 +1,56 @@
+<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.Mobile.master.cs" Inherits="FeBlood.Site_Mobile" %>
+<%@ Register Src="~/ViewSwitcher.ascx" TagPrefix="friendlyUrls" TagName="ViewSwitcher" %>
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <meta name="viewport" content="width=device-width" />
+    <title></title>
+    <asp:ContentPlaceHolder runat="server" ID="HeadContent" />
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div class="navbar navbar-inverse navbar-fixed-top" id="+" style="background-color:gray">
+            <div class="container">
+                <div class="navbar-header" >
+                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                   <a class="navbar-brand" runat="server" href="~/" style="color:white">FeBlood</a>
+                    <img src="images/feblood.jpeg" alt="Alternate Text" width="50" height="50" href="~/Default" />
+                </div>
+                <div class="navbar-collapse collapse">
+                    <ul class="nav navbar-nav" >
+                        <li class="nav-item dropdown ml-md-auto">
+					    <a class="dropdown-toggle" href="#" id="navbarDropdownMenuLink" data-toggle="dropdown" style="color:white">Inicio</a>
+					    <ul class="dropdown-menu" style="background-color:black">
+                         <li><a href="CalculadoraNiños.aspx" style="color:white">Calculadora IMC de Niños</a></li>
+                         <li><a href="CalculadoraAdultos.aspx" style="color:white">Calculadora IMC de Adultos</a></li>
+                        </ul>
+				        </li>
+                        <li><a runat="server" href="~/About" style="color:white">Acerca de</a></li>                        
+                        <li><a runat="server" href="~/Contact" style="color:white">Contacto</a></li>
+                        <li><a runat="server" href="~/Login" style="color:white">Intranet</a></li>
+                        <li class="nav-item dropdown ml-md-auto">
+				</li>
+                        
+
+                    </ul>
+
+                </div>
+            </div>
+        </div>
+        <div class="container body-content">
+            <asp:ContentPlaceHolder ID="MainContent" runat="server">
+            </asp:ContentPlaceHolder>
+            <hr />
+            <footer>
+                <p>&copy; <%: DateTime.Now.Year %> - FeBlood V.1.0</p>
+            </footer>
+        </div>
+
+    </form>
+</body>
+</html>
